@@ -1,10 +1,7 @@
-streamlit
 googletrans==4.0.0rc1
+streamlit
+gtts
 langdetect
-pycountry
-gTTS
-nltk
 wordcloud
 matplotlib
-httpx<0.24
 
