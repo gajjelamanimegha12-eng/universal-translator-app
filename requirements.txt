@@ -6,3 +6,5 @@ gTTS
 nltk
 wordcloud
 matplotlib
+httpx<0.24
+
